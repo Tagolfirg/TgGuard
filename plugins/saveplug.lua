@@ -66,7 +66,7 @@ load_document(msg.reply_id, saveplug, {msg=msg,name=name})
 end
 end
 return {
-  advan = {
+  tGuard = {
     "Created by: @sajjad_021
     "Powered by: @MemberPlus_TM
     "CopyRight all right reserved",
