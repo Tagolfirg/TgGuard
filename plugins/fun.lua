@@ -194,8 +194,8 @@ function run(msg, matches)
     if not is_owner(msg) then 
       return "You Are Not Allow To clean Msgs!" 
       end 
-    if tonumber(matches[3]) > 100 or tonumber(matches[3]) < 10 then 
-      return "Minimum clean 10 and maximum clean is 100" 
+    if tonumber(matches[3]) > 1000 or tonumber(matches[3]) < 10 then 
+      return "Minimum clean 10 and maximum clean is 1000" 
       end 
    get_history(msg.to.peer_id, matches[3] + 1 , clean_msg , { chatid = msg.to.peer_id,con = matches[3]}) 
    end 
@@ -627,7 +627,7 @@ if matches[1] == "mobile"or matches[1] == 'جدیدترین موبایل ها'  
 local pass = 'dram1135' 
 local url = 'http://api.avirateam.ir/mobile/cli/index.php?pass='..pass 
   local req = http.request(url) 
-  return req..' @antispamandhack' 
+  return req..' @MemberPlus_TM' 
 end 
 -------------------- 
 if matches[1] == "alexa"  then 
@@ -807,6 +807,5 @@ patterns = {
 run = run, 
 } 
 
--- @antispamandhack
--- باز نویسی توسط @sudo1
--- ادیت توسط @mrr619
+-- by @sajjad_021
+-- channel : @MemberPlus_TM
