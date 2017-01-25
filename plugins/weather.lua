@@ -1,11 +1,11 @@
 ﻿--[[
 
      **************************
-     *  BlackPlus Plugins...  *
+     *       TgGuard  *
      *                        *
-     *     By @MehdiHS        *
+     *     By @sajjad_021        *
      *                        *
-     *  Channel > @Black_Ch   *
+     *   Ch > @MemberPlus_TM   *
      **************************
 	 
 ]]
@@ -136,12 +136,14 @@ return {
 
 --[[
 
+
      **************************
-     *  BlackPlus Plugins...  *
+     *       TgGuard  *
      *                        *
-     *     By @MehdiHS        *
+     *     By @sajjad_021        *
      *                        *
-     *  Channel > @Black_Ch   *
+     *   Ch > @MemberPlus_TM   *
      **************************
+	 
 	 
 ]]
