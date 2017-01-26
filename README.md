@@ -43,8 +43,40 @@ tmux new-session -s script "bash launch.sh"
 To install everything in one command (useful for VPS deployment) on Debian-based distros, use:
 ```sh
 #https://github.com/yagop/telegram-bot/wiki/Installation
-sudo apt-get update; sudo apt-get upgrade -y --force-yes; sudo apt-get dist-upgrade -y --force-yes; sudo apt-get install libreadline-dev libconfig-dev libssl-dev lua5.2 liblua5.2-dev lua-socket lua-sec lua-expat libevent-dev libjansson* libpython-dev make unzip git redis-server g++ autoconf -y --force-yes && git clone https://github.com/sajjad-021/TgGuard.git -b supergroups && cd TgGuard && chmod +x launch.sh && ./launch.sh install && tmux new-session -s script "bash launch.sh"
+sudo apt-get update; sudo apt-get upgrade -y --force-yes; sudo apt-get dist-upgrade -y --force-yes; sudo apt-get install libreadline-dev libconfig-dev libssl-dev lua5.2 liblua5.2-dev lua-socket lua-sec lua-expat libevent-dev libjansson* libpython-dev make unzip git redis-server g++ autoconf -y --force-yes && git clone https://github.com/sajjad-021/TgGuard.git && cd TgGuard && chmod +x launch.sh && ./launch.sh install && ./launch.sh
 ```
+
+* * *
+
+```
+cd TgGuard
+
+sed -i "s/username/$(whoami)/g" etc/pika.conf
+```
+
+replace your server account name in the  "username"  (main user and many people use root access)
+
+```
+sed -i "s_telegrambotpath_$(pwd)_g" etc/pika.conf
+
+sudo cp etc/pika.conf /etc/init/
+
+chmod 777 pika
+
+nohup ./pika &>/dev/null &
+
+sudo start pika
+
+screen ./pika
+```
+
+* * *
+
+if you use another username ,
+first
+you must goto the ../TgGuard/etc/pika.conf
+and edit "pika.conf" file.
+in the line 10 , replace your username instead root.
 
 * * *
 
