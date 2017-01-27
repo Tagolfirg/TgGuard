@@ -2,7 +2,7 @@
 
 [![https://telegram.me/sajjad_021](https://img.shields.io/badge/%F0%9F%92%AC_Telegram-sajjad_021-blue.svg)](https://t.me/sajjad_021)
 [![https://telegram.me/Jarriz](https://img.shields.io/badge/%F0%9F%92%AC_Telegram-Jarriz-blue.svg)](https://t.me/Jarriz)
-[![https://telegram.me/iicc1(https://img.shields.io/badge/%F0%9F%92%AC_Telegram-iicc1-blue.svg)](https://t.me/iicc1)
+[![https://telegram.me/iicc1](https://img.shields.io/badge/%F0%9F%92%AC_Telegram-iicc1-blue.svg)](https://t.me/iicc1)
 [![https://telegram.me/MemberPlus_TM](https://img.shields.io/badge/%F0%9F%92%AC_Telegram-MemberPlus_TM-blue.svg)](https://t.me/MemberPlus_TM)
 [![https://github.com/yagop/telegram-bot](https://img.shields.io/badge/%F0%9F%92%AC_GitHub-Telegram_bot-green.svg)](https://github.com/yagop/telegram-bot)
 [![https://valtman.name/telegram-cli](https://img.shields.io/badge/%F0%9F%92%AC_WebPage-valtman.name-red.svg)](https://valtman.name/telegram-cli)
