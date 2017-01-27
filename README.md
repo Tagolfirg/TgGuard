@@ -1,13 +1,15 @@
 # [TgGuard](https://telegram.me/tgguard)
 
 [![https://telegram.me/sajjad_021](https://img.shields.io/badge/%F0%9F%92%AC_Telegram-sajjad_021-blue.svg)](https://t.me/sajjad_021)
+[![https://github.com/sajjad-021/TgGuard](https://img.shields.io/badge/%F0%9F%92%AC_GitHub-TgGuard-green.svg)](https://github.com/sajjad-021/TgGuard)
+[![https://member-adder.ir](https://img.shields.io/badge/%F0%9F%92%AC_WebPage-MemberPlus_TM-red.svg)](https://member-adder.ir)
 [![https://telegram.me/Jarriz](https://img.shields.io/badge/%F0%9F%92%AC_Telegram-Jarriz-blue.svg)](https://t.me/Jarriz)
 [![https://telegram.me/iicc1](https://img.shields.io/badge/%F0%9F%92%AC_Telegram-iicc1-blue.svg)](https://t.me/iicc1)
 [![https://telegram.me/MemberPlus_TM](https://img.shields.io/badge/%F0%9F%92%AC_Telegram-MemberPlus_TM-blue.svg)](https://t.me/MemberPlus_TM)
 [![https://github.com/yagop/telegram-bot](https://img.shields.io/badge/%F0%9F%92%AC_GitHub-Telegram_bot-green.svg)](https://github.com/yagop/telegram-bot)
 [![https://valtman.name/telegram-cli](https://img.shields.io/badge/%F0%9F%92%AC_WebPage-valtman.name-red.svg)](https://valtman.name/telegram-cli)
 [![https://github.com/vysheng](https://img.shields.io/badge/%F0%9F%92%AC_GitHub-vysheng-green.svg)](https://github.com/vysheng)
-[![https://github.com/sajjad-021/TgGuard](https://img.shields.io/badge/%F0%9F%92%AC_GitHub-TgGuard-green.svg)](https://github.com/sajjad-021/TgGuard)
+
 
 <p align="center"> ![http://member-adder.ir/img/tgguard.png](http://member-adder.ir/img/tgguard.png)
 <h1 align="left">`(TgGuard`👑, _bot with fast speed and high power)_</h1><p align=centert">  It is an anti spam bot (CLI) powered by [MemberPlus™](http://telegram.me/memberplus_tm), this source have an original *Autolaunch* and *Steady script* for your ubuntu server.
