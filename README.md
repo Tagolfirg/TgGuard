@@ -4,7 +4,7 @@
 [![https://telegram.me/sajjad_021](https://img.shields.io/badge/%F0%9F%92%AC_Telegram-sajjad_021-blue.svg)](https://t.me/sajjad_021)
 [![https://github.com/sajjad-021/TgGuard](https://img.shields.io/badge/%F0%9F%92%AC_GitHub-TgGuard-green.svg)](https://github.com/sajjad-021/TgGuard)
 [![https://member-adder.ir](https://img.shields.io/badge/%F0%9F%92%AC_WebPage-MemberPlus_TM-red.svg)](https://member-adder.ir)
-* 
+
 [![https://telegram.me/Jarriz](https://img.shields.io/badge/%F0%9F%92%AC_Telegram-Jarriz-blue.svg)](https://t.me/Jarriz)
 [![https://telegram.me/iicc1](https://img.shields.io/badge/%F0%9F%92%AC_Telegram-iicc1-blue.svg)](https://t.me/iicc1)
 [![https://telegram.me/MemberPlus_TM](https://img.shields.io/badge/%F0%9F%92%AC_Telegram-MemberPlus_TM-blue.svg)](https://t.me/MemberPlus_TM)
